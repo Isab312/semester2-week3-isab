@@ -3,13 +3,14 @@
 
 /*
  * Potrfolio submission
- * Name:
- * ID:
+ * Name: Isa Bajibhai
+ * ID: qggg0310
  */
 
  int main( void ) {
 
     // define and initialise variables for the problem data 
+    
 
     // calculate the deductions and final take-home salary
 

@@ -10,7 +10,7 @@ You are given the source code file: hello.c
 The result is an executable file: a.out
 - This "executable file" is stored on your local disk
 - We can compile our code once and run the executable many times
-    - Compare this to the Python programming model we have used
+ - Compare this to the Python programming model we have used
 - We could remove the source code file (hello.c) and the executable program still exists and can be run.
 
 Run the executable file
